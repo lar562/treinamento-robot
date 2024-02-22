@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.11.8 on win32)" generated="2024-02-21T18:08:08.347204" rpa="false" schemaversion="5">
+<suite id="s1" name="Ex01" source="C:\Users\laressa.silveira\Desktop\treinamento-roboto\treinamento-robot\ex01.robot">
+<test id="s1-t1" name="Imprimir Dicionário" line="9">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>${PESSOA}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-02-21T18:08:08.376266" elapsed="0.001102"/>
+</kw>
+<status status="PASS" start="2024-02-21T18:08:08.375270" elapsed="0.002719"/>
+</test>
+<status status="PASS" start="2024-02-21T18:08:08.349689" elapsed="0.029308"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Ex01">Ex01</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
